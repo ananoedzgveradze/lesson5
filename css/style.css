@@ -1,0 +1,94 @@
+.section1 {
+	width: 1440px;
+	height: 60px;
+	background-color: #F6F8F9;
+	position: fixed;
+}
+
+.title {
+	width: 1424px;
+	height: 39px;
+	margin: 11px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 92px 0 20px;
+    padding-left: 10px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    font-family: "ALK Tall Mtavruli", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #FA6980
+}
+
+.title1 {
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.home {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-size: 11px;
+	font-family: "ALK Tall Mtavruli", sans-serif;
+	font-weight: bold;
+	color:#343638
+}
+
+.discovery {
+	font-size: 11px;
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 27px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+    font-family: "ALK Tall Mtavruli", sans-serif;
+	font-weight: bold;
+	color: #A6ADB4;
+}
+
+.photos {
+	font-size: 11px;
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 27px;
+	padding-top: 11px;
+    padding-bottom: 11px;
+	font-family: "ALK Tall Mtavruli", sans-serif;
+	font-weight: bold;
+	color: #A6ADB4;
+}
+
+.contact {
+	font-size: 11px;
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 27px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	font-family: "ALK Tall Mtavruli", sans-serif;
+	font-weight: bold;
+	color: #A6ADB4;
+}
+
+.profile {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 27px;
+}
+
+.box1 {
+	margin: 0 auto;
+    height: 410px;
+    width: 1160px;
+    background-color: red;
+}
+
+
+	
